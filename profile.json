@@ -4,13 +4,13 @@
   "tagline": "I love raccoons | FEEDING RACCOONS",
   "card_title": "STATUS.EXE",
   "fields": [
-    ["LVL", "25"],
+    ["LVL", "67"],
     ["EXP", "99%"],
     ["CLASS", "RaccoonLover"]
   ],
   "stack": "PYTHON,JS,GIT,LINUX",
   "quest": "Save the fluffy animals",
-  "footer": "THANKS FOR VISITING *",
+  "footer": "DZIEKI ZA ODWIEDZENIE, ZOSTAW COŚ PO SOBIE*",
   "footer_hint": "PRESS START TO CONTINUE",
   "theme": "forest",
   "character": "cat"
