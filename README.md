@@ -7,9 +7,6 @@
 
 
 
-<p align="center"><img src="https://raw.githubusercontent.com/R3vii/R3vii/main/assets/banner.svg" width="100%" alt="banner" /></p>
-<p align="center"><img src="https://raw.githubusercontent.com/R3vii/R3vii/main/assets/divider.svg" width="100%" alt="" /></p>
-<p align="center"><img src="https://raw.githubusercontent.com/R3vii/R3vii/main/assets/status.svg" width="100%" alt="status card" /></p>
 <p align="center"><img src="https://raw.githubusercontent.com/R3vii/R3vii/main/assets/footer.svg" width="100%" alt="thanks for visiting" /></p>
 
 
