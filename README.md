@@ -17,8 +17,11 @@ Hi there! I'm here to write code and feed raccoons. 🦝
 
 ### === GitHub Stats ===
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R3vii&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/R3vii/R3vii/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/R3vii/R3vii/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Repos per Language" />
+  <img src="https://raw.githubusercontent.com/R3vii/R3vii/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="Stats" />
 </p>
+
 
 ---
 
