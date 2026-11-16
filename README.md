@@ -7,11 +7,13 @@
 ---
 
 ### === About Me ===
-Hi there! I'm here to write code and feed raccoons. 🦝
+Im just a guy who loves raccoons (in case it wasnt obvious🦝). In my free time, I like to tinker with:
+
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,git,linux,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,cs,unity,visualstudio,vscode,git" alt="Tech Stack" />
 </p>
+
 
 ---
 
