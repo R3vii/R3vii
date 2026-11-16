@@ -1,16 +1,14 @@
 {
   "title": "R3VII",
   "handle": "Szop Pracz",
-  "tagline": "I love raccoons",
+  "tagline": "I love raccoons | FEEDING RACCOONS",
   "card_title": "STATUS.EXE",
-  "playerName": "Szop Pracz",
   "fields": [
     ["LVL", "25"],
     ["EXP", "99%"],
     ["CLASS", "RaccoonLover"]
   ],
   "stack": "PYTHON,JS,GIT,LINUX",
-  "statusText": "FEEDING RACCOONS",
   "quest": "Save the fluffy animals",
   "footer": "THANKS FOR VISITING *",
   "footer_hint": "PRESS START TO CONTINUE",
